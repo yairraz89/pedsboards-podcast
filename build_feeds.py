@@ -37,6 +37,37 @@ SHOWS = {
 }
 
 BASE_DATE = datetime(2026, 1, 1, 8, 0, tzinfo=timezone.utc)
+HERE = os.path.dirname(os.path.abspath(__file__))
+
+
+def load_keywords():
+    """Read keywords/*.txt -> ({topic: hebrew_topic}, {(topic, num): (en_kw, he_kw)}).
+
+    Line format: '@Topic|Hebrew topic' starts a topic; 'NN|Hebrew title|en kw|he kw'
+    is an episode. The Hebrew episode title column is kept for reference only:
+    feed titles use the Hebrew topic name plus the English episode title.
+    """
+    topics, kws = {}, {}
+    kdir = os.path.join(HERE, "keywords")
+    for name in sorted(os.listdir(kdir)):
+        if not name.endswith(".txt"):
+            continue
+        topic = None
+        for n, line in enumerate(open(os.path.join(kdir, name), encoding="utf-8"), 1):
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            parts = line.split("|")
+            if line.startswith("@"):
+                topic = parts[0][1:]
+                topics[topic] = parts[1]
+            else:
+                assert len(parts) == 4, f"{name}:{n}: expected 4 fields"
+                kws[(topic, int(parts[0]))] = (parts[2].strip(), parts[3].strip())
+    return topics, kws
+
+
+TOPIC_HE, KEYWORDS = load_keywords()
 
 
 def read_playlist(lang):
@@ -81,10 +112,23 @@ def build(lang, stage):
                 os.remove(link)
             os.symlink(full, link)
         pub = BASE_DATE + timedelta(hours=i)  # first episode is the oldest
+        en_kw, he_kw = KEYWORDS[(topic, num)]
+        topic_he = TOPIC_HE[topic]
+        if lang == "he":
+            ep_title = f"{topic_he} {num:02d} - {title}"
+            desc = (f"{topic_he}, פרק {num}: {title}\n\n"
+                    f"מילות חיפוש: {topic_he}, {he_kw}\n"
+                    f"Keywords: {topic}, {en_kw}")
+        else:
+            ep_title = f"{topic} {num:02d}: {title}"
+            desc = (f"{topic}, episode {num}: {title}\n\n"
+                    f"Keywords: {topic}, {en_kw}\n"
+                    f"מילות חיפוש: {topic_he}, {he_kw}")
         out.append(
             f"""    <item>
-      <title>{escape(f"{topic} {num:02d}: {title}")}</title>
-      <description>{escape(f"{topic}, episode {num}. {title}.")}</description>
+      <title>{escape(ep_title)}</title>
+      <description>{escape(desc)}</description>
+      <itunes:summary>{escape(desc)}</itunes:summary>
       <enclosure url="{RELEASES}/{lang}/{asset}" length="{size}" type="audio/mpeg"/>
       <guid isPermaLink="false">pedsboards-{asset}</guid>
       <pubDate>{format_datetime(pub)}</pubDate>

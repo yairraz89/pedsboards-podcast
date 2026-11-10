@@ -1,0 +1,116 @@
+# Format:
+# @<Topic folder name>|<Hebrew topic name>
+# <NN>|<Hebrew episode title>|<English keywords, comma-separated>|<Hebrew keywords, comma-separated>
+
+@Adolescent Development|התבגרות ורפואת מתבגרים
+01|זהות מגדרית וטיפול באנשים טרנסג'נדרים|gender dysphoria, transgender, gender-affirming care, puberty blockers, GnRH agonist, cross-sex hormones, LGBTQ|דיספוריה מגדרית, טרנסג'נדר, חוסמי התבגרות, טיפול הורמונלי, להט"ב
+02|הפרעת שימוש בחומרים|substance abuse, alcohol, cannabis, marijuana, smoking, vaping, nicotine, opioids, overdose, CRAFFT, addiction|שימוש בסמים, אלכוהול, קנאביס, עישון, סיגריה אלקטרונית, ניקוטין, אופיואידים, מנת יתר, התמכרות
+03|הפרעות הקשורות לווסת|amenorrhea, dysmenorrhea, abnormal uterine bleeding, menorrhagia, heavy menstrual bleeding, PMS, premenstrual syndrome, period|אמנוריאה, דיסמנוריאה, דימום רחמי חריג, מחזור, וסת, דימום וסתי מוגבר, כאבי מחזור
+04|אמצעי מניעה|contraception, birth control, oral contraceptive pill, IUD, LARC, implant, emergency contraception, condom, Depo-Provera|אמצעי מניעה, גלולות, התקן תוך רחמי, גלולת הבוקר שאחרי, קונדום, מניעת היריון
+05|מחלות מין|STI, STD, chlamydia, gonorrhea, syphilis, trichomonas, HPV, herpes, PID, pelvic inflammatory disease, urethritis, cervicitis|מחלות מין, כלמידיה, זיבה, עגבת, טריכומונס, הרפס, דלקת אגן, דלקת שופכה
+
+@Cardiology|קרדיולוגיה
+01|המעבר ממחזור דם עוברי למחזור דם של יילוד|fetal circulation, ductus arteriosus, PDA, foramen ovale, ductus venosus, transitional circulation, pulmonary vascular resistance|מחזור דם עוברי, דוקטוס ארטריוזוס, פורמן אובלה, תנגודת ריאתית, לידה
+02|אנמנזה ובדיקה גופנית בהערכה קרדיאלית|heart murmur, innocent murmur, Still's murmur, heart sounds, S2 split, pulses, cyanosis, chest pain, cardiac exam|אוושה, אוושה תמימה, קולות לב, דפקים, כיחלון, כאבים בחזה, בדיקת לב
+03|בירור מעבדתי קרדיאלי|ECG, EKG, electrocardiogram, echocardiography, chest X-ray, cardiac MRI, catheterization, troponin, BNP, Holter, exercise test|אק"ג, אקו לב, צילום חזה, צנתור, טרופונין, הולטר, מבחן מאמץ
+04|אפידמיולוגיה ובסיס גנטי של מומי לב מולדים|congenital heart disease, CHD, 22q11 deletion, DiGeorge, Down syndrome, Turner, Williams, Noonan, recurrence risk|מומי לב מולדים, תסמונת דאון, טרנר, וויליאמס, נונאן, די ג'ורג', 22q11
+05|מומי לב לא כיחלוניים – שאנט משמאל לימין|VSD, ASD, PDA, patent ductus arteriosus, atrioventricular septal defect, AV canal, left-to-right shunt, heart failure, Eisenmenger|פגם במחיצה בין החדרים, פגם במחיצה בין העליות, דוקטוס פתוח, תעלה אטריו-ונטריקולרית, אי ספיקת לב, אייזנמנגר
+06|מומי לב לא כיחלוניים – נגעים חוסמים|pulmonary stenosis, aortic stenosis, coarctation of the aorta, bicuspid aortic valve, mitral stenosis, outflow obstruction|היצרות מסתם ריאתי, היצרות מסתם אאורטלי, קוארקטציה של אבי העורקים, מסתם דו-צניפי
+07|מומי לב כיחלוניים – זרימת דם ריאתית מופחתת|tetralogy of Fallot, tet spell, pulmonary atresia, tricuspid atresia, Ebstein anomaly, cyanosis, blue baby|טטרלוגיה של פאלו, התקף היפוקסי, אטרזיה של המסתם הריאתי, אטרזיה של המסתם התלת-צניפי, אבשטיין, כיחלון
+08|מומי לב כיחלוניים – זרימת דם ריאתית מוגברת|transposition of the great arteries, TGA, truncus arteriosus, TAPVR, total anomalous pulmonary venous return, hypoplastic left heart syndrome, HLHS, single ventricle, Norwood, Fontan|טרנספוזיציה של העורקים הגדולים, טרונקוס ארטריוזוס, ניקוז ורידי ריאתי חריג, תסמונת לב שמאלי היפופלסטי, חדר יחיד, פונטן
+09|יתר לחץ דם ריאתי|pulmonary hypertension, PAH, Eisenmenger, right heart failure, sildenafil, bosentan|יתר לחץ דם ריאתי, אייזנמנגר, אי ספיקת לב ימנית, סילדנפיל
+10|הפרעות בקצב ובסדירות הלב|arrhythmia, SVT, supraventricular tachycardia, WPW, Wolff-Parkinson-White, long QT, heart block, bradycardia, adenosine, palpitations|הפרעות קצב, טכיקרדיה על-חדרית, WPW, QT ארוך, חסם הולכה, ברדיקרדיה, אדנוזין, דפיקות לב
+11|אנדוקרדיטיס זיהומית|infective endocarditis, bacterial endocarditis, Duke criteria, blood cultures, vegetation, Strep viridans, Staphylococcus aureus, antibiotic prophylaxis|אנדוקרדיטיס, דלקת פנים הלב, קריטריוני דיוק, תרביות דם, צמחייה על מסתם, מניעה אנטיביוטית
+12|מחלות שריר הלב|cardiomyopathy, dilated cardiomyopathy, hypertrophic cardiomyopathy, HCM, myocarditis, heart failure, sudden cardiac death|קרדיומיופתיה, קרדיומיופתיה מורחבת, קרדיומיופתיה היפרטרופית, מיוקרדיטיס, דלקת שריר הלב, אי ספיקת לב, מוות לבבי פתאומי
+13|מחלות קרום הלב|pericarditis, pericardial effusion, cardiac tamponade, constrictive pericarditis, chest pain, post-pericardiotomy syndrome|פריקרדיטיס, דלקת קרום הלב, תפליט פריקרדיאלי, טמפונדה, כאבים בחזה
+14|יתר לחץ דם סיסטמי|hypertension, high blood pressure, blood pressure percentiles, ambulatory BP monitoring, renal hypertension, hypertensive emergency, antihypertensives|יתר לחץ דם, לחץ דם גבוה, אחוזוני לחץ דם, ניטור לחץ דם, משבר יתר לחץ דם
+
+@Dermatology|דרמטולוגיה
+01|הערכה דרמטולוגית של המטופל|skin exam, rash, primary lesions, macule, papule, vesicle, morphology, KOH, skin biopsy|בדיקת עור, פריחה, נגעי עור, מקולה, פפולה, שלפוחית, ביופסיית עור
+02|עקרונות הטיפול הדרמטולוגי|topical steroids, steroid potency, emollients, moisturizers, topical calcineurin inhibitors, tacrolimus, wet wraps|סטרואידים מקומיים, משחות, קרמים, תכשירי לחות, טקרולימוס, טיפול מקומי
+03|מחלות עור ביילוד|neonatal rash, erythema toxicum, milia, neonatal acne, transient neonatal pustular melanosis, Mongolian spot, aplasia cutis, collodion baby|פריחה ביילוד, אריתמה טוקסיקום, מיליה, אקנה של יילודים, כתם מונגולי, תינוק קולודיון
+04|דיספלזיות אקטודרמליות|ectodermal dysplasia, hypohidrosis, sparse hair, missing teeth, hypodontia, nail dystrophy, heat intolerance|דיספלזיה אקטודרמלית, היעדר הזעה, שיער דליל, חסר שיניים, ציפורניים
+05|אנומליות של כלי דם|infantile hemangioma, propranolol, port-wine stain, vascular malformation, Sturge-Weber, PHACE, Kasabach-Merritt, lymphatic malformation|המנגיומה, פרופרנולול, כתם יין, מום כלי דם, סטורג'-וובר, מום לימפטי
+06|מחלות שלפוחיתיות|blistering diseases, bullous diseases, epidermolysis bullosa, Stevens-Johnson syndrome, SJS, TEN, toxic epidermal necrolysis, erythema multiforme, pemphigus|מחלות שלפוחיות, אפידרמוליזיס בולוזה, סטיבנס-ג'ונסון, TEN, אריתמה מולטיפורמה, פמפיגוס
+07|הפרעות אקזמטיות|eczema, contact dermatitis, seborrheic dermatitis, cradle cap, dyshidrotic eczema, nummular eczema, diaper dermatitis|אקזמה, דלקת עור ממגע, דרמטיטיס סבוריאית, קשקשת, פריחת חיתולים
+08|מחלות הרקמה התת-עורית|panniculitis, erythema nodosum, subcutaneous fat necrosis, cold panniculitis, lipoatrophy|פניקוליטיס, אריתמה נודוזום, נמק שומן תת-עורי, רקמה תת-עורית
+09|זיהומים חיידקיים של העור|impetigo, cellulitis, abscess, MRSA, folliculitis, staphylococcal scalded skin syndrome, erysipelas, necrotizing fasciitis|אימפטיגו, צלוליטיס, מורסה, MRSA, דלקת זקיקים, תסמונת העור הצרוב, ארסיפלס, פאשיאיטיס נמקית
+10|זיהומי פטריות בעור|tinea capitis, tinea corporis, ringworm, tinea pedis, tinea versicolor, candidiasis, onychomycosis, griseofulvin, terbinafine|גזזת, גזזת הקרקפת, פטרת עור, פטרת כפות רגליים, פטרת ציפורניים, קנדידה, טרבינפין
+11|אקנה|acne vulgaris, comedones, isotretinoin, Roaccutane, benzoyl peroxide, topical retinoids, doxycycline|אקנה, פצעי בגרות, קומדונים, רואקוטן, איזוטרטינואין, רטינואידים
+
+@Ear (Otology)|אוזניים (אוטולוגיה)
+01|עקרונות כלליים ובדיקת האוזן|ear exam, otoscopy, pneumatic otoscopy, tympanic membrane, tympanometry, ear pain, otalgia|בדיקת אוזניים, אוטוסקופיה, עור התוף, טימפנומטריה, כאבי אוזניים
+02|ירידה בשמיעה|hearing loss, deafness, newborn hearing screening, sensorineural, conductive, cochlear implant, CMV, audiometry, OAE, ABR|ירידה בשמיעה, חירשות, סינון שמיעה ביילודים, שתל שבלול, CMV, בדיקת שמיעה
+03|דלקת אוזן חיצונית|otitis externa, swimmer's ear, ear canal infection, Pseudomonas, ear drops|דלקת אוזן חיצונית, אוזן שחיינים, תעלת השמע, טיפות אוזניים, פסאודומונס
+04|דלקת אוזן תיכונה|acute otitis media, AOM, otitis media with effusion, OME, amoxicillin, tympanostomy tubes, ear tubes, ventilation tubes|דלקת אוזן תיכונה, נוזלים באוזן התיכונה, אמוקסיצילין, כפתורים, צינוריות אוורור
+05|מסטואידיטיס חריפה|mastoiditis, mastoid, postauricular swelling, complication of otitis media, CT temporal bone|מסטואידיטיס, דלקת עצם הפטמה, נפיחות מאחורי האוזן, סיבוך של דלקת אוזן
+
+@Emergency Medicine|רפואה דחופה
+01|טריאז' של הילד החולה באופן חריף|triage, pediatric assessment triangle, sick child, vital signs, PEWS, emergency department|טריאז', משולש ההערכה הילדי, ילד חולה, סימנים חיוניים, מיון
+02|מצבי חירום קרדיו-נשימתיים והחייאה|CPR, cardiac arrest, PALS, resuscitation, defibrillation, epinephrine, bradycardia, ventricular fibrillation|החייאה, דום לב, PALS, דפיברילציה, אדרנלין, פרפור חדרים
+03|טיפול חריף בטראומה רב-מערכתית|multiple trauma, ATLS, primary survey, ABCDE, FAST, hemorrhage, head injury, abdominal trauma|טראומה, טראומה רב-מערכתית, סקר ראשוני, FAST, דימום, חבלת ראש, חבלת בטן
+04|פגיעות בחוט השדרה בילדים|spinal cord injury, cervical spine, SCIWORA, c-spine immobilization, neck trauma|פגיעה בחוט השדרה, עמוד שדרה צווארי, קיבוע צוואר, חבלת צוואר
+05|מצבי חירום נוירולוגיים וייצוב|altered mental status, coma, increased intracranial pressure, status epilepticus, Glasgow Coma Scale, herniation|הכרה מעורפלת, תרדמת, לחץ תוך גולגולתי מוגבר, סטטוס אפילפטיקוס, סולם גלזגו, הרניאציה
+06|התעלפות|syncope, fainting, vasovagal, orthostatic, long QT, cardiac syncope, POTS|התעלפות, סינקופה, וזו-וגלי, אורתוסטטי, QT ארוך
+07|הלם|shock, septic shock, hypovolemic shock, cardiogenic shock, fluid resuscitation, vasopressors, sepsis|הלם, הלם ספטי, הלם היפוולמי, הלם קרדיוגני, החייאת נוזלים, אלח דם, ספסיס
+08|טיפול חריף במצוקה ובכשל נשימתי|respiratory distress, respiratory failure, intubation, oxygen, high-flow, noninvasive ventilation, blood gas|מצוקה נשימתית, כשל נשימתי, אינטובציה, חמצן, הנשמה לא פולשנית, גזים בדם
+09|טביעה ופגיעת טבילה|drowning, near-drowning, submersion, water safety, hypothermia|טביעה, כמעט טביעה, בטיחות במים, היפותרמיה
+10|כוויות|burns, burn injury, total body surface area, TBSA, Parkland formula, scald, inhalation injury|כוויות, שטח גוף כוויה, נוסחת פרקלנד, כוויית מים רותחים, פגיעת שאיפה
+11|פגיעות קור|hypothermia, frostbite, cold injury, chilblains|היפותרמיה, כוויות קור, פגיעות קור
+12|הרדמה וטיפול סביב ניתוח|anesthesia, sedation, procedural sedation, fasting guidelines, malignant hyperthermia, airway, preoperative|הרדמה, סדציה, צום לפני ניתוח, היפרתרמיה ממאירה, טיפול סביב ניתוח
+13|טיפול בכאב בילדים|pain management, analgesia, pain scales, opioids, morphine, ibuprofen, paracetamol, acetaminophen, EMLA|טיפול בכאב, משככי כאבים, סולמות כאב, אופיואידים, מורפיום, איבופרופן, אקמול, פרצטמול
+14|הרעלות|poisoning, ingestion, toxicology, acetaminophen overdose, paracetamol, N-acetylcysteine, activated charcoal, iron, organophosphate, antidote, toxidrome|הרעלות, בליעה, טוקסיקולוגיה, הרעלת אקמול, פחם פעיל, נוגדן, ברזל, זרחנים אורגניים
+
+@Endocrinology|אנדוקרינולוגיה
+01|תת תפקוד של בלוטת יותרת המוח|hypopituitarism, growth hormone deficiency, short stature, panhypopituitarism, craniopharyngioma, septo-optic dysplasia, micropenis|תת תפקוד יותרת המוח, חסר הורמון גדילה, קומה נמוכה, קרניופרינגיומה, מיקרופין
+02|סוכרת תפלה|diabetes insipidus, polyuria, polydipsia, ADH, vasopressin, desmopressin, DDAVP, hypernatremia, water deprivation test|סוכרת תפלה, השתנה מרובה, צמא, ADH, וזופרסין, מינירין, היפרנתרמיה, מבחן צמא
+03|יתר תפקוד של בלוטת יותרת המוח|hyperpituitarism, pituitary adenoma, prolactinoma, gigantism, acromegaly, growth hormone excess|יתר תפקוד יותרת המוח, אדנומה של ההיפופיזה, פרולקטינומה, ענקות, אקרומגליה
+04|הפרעות בהתפתחות המינית בגיל ההתבגרות|precocious puberty, delayed puberty, Tanner stages, premature thelarche, premature adrenarche, GnRH, constitutional delay|בגרות מוקדמת, בגרות מאוחרת, שלבי טאנר, התפתחות שדיים מוקדמת, אדרנרכה מוקדמת, עיכוב התבגרות
+05|תת פעילות של בלוטת התריס|hypothyroidism, congenital hypothyroidism, newborn screening, TSH, levothyroxine, Hashimoto thyroiditis, goiter|תת פעילות בלוטת התריס, היפותירואידיזם מולד, סינון יילודים, TSH, אלטרוקסין, השימוטו, זפקת
+06|יתר פעילות של בלוטת התריס|hyperthyroidism, thyrotoxicosis, Graves disease, neonatal thyrotoxicosis, methimazole, thyroid storm, exophthalmos|יתר פעילות בלוטת התריס, גרייבס, תירוטוקסיקוזיס, מתימזול, סערת בלוטת התריס, בלט עיניים
+07|תסמונות אוטואימוניות רב-בלוטיות|autoimmune polyglandular syndrome, APS-1, APECED, Addison, hypoparathyroidism, mucocutaneous candidiasis, IPEX|תסמונת רב-בלוטית אוטואימונית, אדיסון, תת פעילות יותרת התריס, קנדידה כרונית
+08|תת פעילות של בלוטת יותרת התריס|hypoparathyroidism, hypocalcemia, PTH, parathyroid hormone, tetany, DiGeorge, pseudohypoparathyroidism, calcium|תת פעילות יותרת התריס, היפוקלצמיה, סידן, PTH, טטניה, פסאודוהיפופראתירואידיזם
+09|אי ספיקת אדרנל ושינויים ברגישות לקורטיקוסטרואידים|adrenal insufficiency, Addison disease, adrenal crisis, cortisol, hydrocortisone, ACTH stimulation test, hyponatremia, hyperkalemia, stress dosing|אי ספיקת אדרנל, אדיסון, משבר אדרנלי, קורטיזול, הידרוקורטיזון, מבחן ACTH, מינון סטרס
+10|היפרפלזיה מולדת של האדרנל והפרעות קשורות|congenital adrenal hyperplasia, CAH, 21-hydroxylase deficiency, 17-OHP, ambiguous genitalia, salt wasting, newborn screening, virilization|היפרפלזיה מולדת של האדרנל, CAH, חסר 21 הידרוקסילאז, איבר מין לא מוגדר, איבוד מלח, סינון יילודים
+11|תסמונת קושינג|Cushing syndrome, hypercortisolism, glucocorticoid excess, steroid side effects, dexamethasone suppression test, obesity, growth failure|תסמונת קושינג, עודף קורטיזול, תופעות לוואי של סטרואידים, דקסמתזון, השמנה
+12|תת תפקוד של האשכים|hypogonadism, testicular failure, Klinefelter syndrome, cryptorchidism, testosterone, micropenis, delayed puberty in boys|היפוגונדיזם, אי ספיקת אשכים, קליינפלטר, אשך טמיר, טסטוסטרון, בגרות מאוחרת בבנים
+13|תת תפקוד של השחלות|ovarian insufficiency, Turner syndrome, primary ovarian insufficiency, hypogonadism, estrogen, amenorrhea|אי ספיקת שחלות, תסמונת טרנר, היפוגונדיזם, אסטרוגן, אמנוריאה
+14|הפרעות בהתפתחות המין|disorders of sex development, DSD, ambiguous genitalia, androgen insensitivity, intersex, karyotype, hypospadias|הפרעות בהתפתחות המין, איבר מין לא מוגדר, חוסר רגישות לאנדרוגנים, אינטרסקס, קריוטיפ, היפוספדיאס
+15|סוכרת|diabetes mellitus, type 1 diabetes, type 2 diabetes, glucose, blood sugar, insulin, DKA, diabetic ketoacidosis, HbA1c, hypoglycemia, insulin pump, CGM, cerebral edema|סוכרת, סוכרת נעורים, סוכרת סוג 1, סוכרת סוג 2, גלוקוז, סוכר בדם, אינסולין, חמצת קטוטית, המוגלובין מסוכרר, היפוגליקמיה, משאבת אינסולין, בצקת מוחית
+
+@Fetal Growth & Development|גדילה והתפתחות
+01|השנה הראשונה|infant development, developmental milestones, motor milestones, rolling, sitting, crawling, social smile, stranger anxiety, infant growth|התפתחות תינוק, אבני דרך התפתחותיות, התהפכות, ישיבה, זחילה, חיוך חברתי, חרדת זרים
+02|השנה השנייה|toddler development, walking, first words, language milestones, temper tantrums, autonomy|התפתחות פעוט, הליכה, מילים ראשונות, התפתחות שפה, התקפי זעם, פעוטות
+03|הערכת גדילה|growth charts, weight, height, head circumference, BMI, percentiles, failure to thrive, WHO growth curves|עקומות גדילה, משקל, גובה, היקף ראש, BMI, אחוזונים, כשל בשגשוג
+04|מעקב וסינון התפתחותי והתנהגותי|developmental screening, developmental surveillance, ASQ, M-CHAT, red flags, developmental delay, well-child visit|סינון התפתחותי, מעקב התפתחותי, דגלים אדומים, עיכוב התפתחותי, טיפת חלב, M-CHAT
+05|מסגרות לגיל הרך|child care, daycare, preschool, infections in daycare, nursery, early education|מעון יום, גן ילדים, מסגרות לפעוטות, זיהומים במעון, משפחתון
+06|אובדן, פרידה ושכול|grief, bereavement, death of a parent, divorce, separation, loss, mourning in children|אבל, שכול, אובדן הורה, גירושין, פרידה, התמודדות ילדים עם מוות
+07|רפואת שינה|sleep, insomnia, obstructive sleep apnea, OSA, snoring, night terrors, sleepwalking, narcolepsy, restless legs, sleep hygiene, melatonin|שינה, נדודי שינה, דום נשימה בשינה, נחירות, ביעותי לילה, סהרוריות, נרקולפסיה, היגיינת שינה, מלטונין
+
+@Gastroenterology|גסטרואנטרולוגיה
+01|תסמינים וסימנים עיקריים של מחלות מערכת העיכול|abdominal pain, vomiting, diarrhea, constipation, GI bleeding, dysphagia, abdominal distension, hematemesis, melena|כאבי בטן, הקאות, שלשולים, עצירות, דימום ממערכת העיכול, קשיי בליעה, נפיחות בטן
+02|מומים מולדים (ושט)|esophageal atresia, tracheoesophageal fistula, TEF, laryngotracheoesophageal cleft, VACTERL, congenital anomalies|אטרזיה של הוושט, פיסטולה טרכאו-אזופגיאלית, VACTERL, מום מולד בוושט
+03|הפרעות תנועתיות (ושט)|achalasia, esophageal dysmotility, dysphagia, esophageal manometry|אכלזיה, הפרעת תנועתיות הוושט, קשיי בליעה, מנומטריה
+04|מחלת ריפלוקס קיבתי-ושטי|GERD, gastroesophageal reflux, spitting up, regurgitation, PPI, omeprazole, esophagitis, infant reflux|ריפלוקס, החזר קיבתי-ושטי, גשייה, פליטות, אומפרזול, דלקת ושט
+05|דלקות ושט: אאוזינופילית, מתרופות וזיהומית|eosinophilic esophagitis, EoE, food impaction, pill esophagitis, Candida esophagitis, herpes esophagitis, dysphagia|דלקת ושט אאוזינופילית, תקיעת מזון, דלקת ושט מתרופות, קנדידה בוושט, קשיי בליעה
+06|בליעות|caustic ingestion, button battery, lye, corrosive, esophageal burns, foreign body ingestion|בליעת חומר מאכל, סוללת כפתור, חומר צורב, כוויות בוושט
+07|היצרות הפילורוס ומומים מולדים אחרים של הקיבה|pyloric stenosis, projectile vomiting, olive mass, hypochloremic metabolic alkalosis, pyloromyotomy|היצרות הפילורוס, הקאות קשתיות, אלקלוזיס מטבולית היפוכלורמית, פילורומיוטומיה
+08|אטרזיה, היצרות ותסובב של המעי|intestinal atresia, duodenal atresia, double bubble, malrotation, midgut volvulus, bilious vomiting, Ladd procedure|אטרזיה של המעי, אטרזיה של התריסריון, סימן הבועה הכפולה, תסובב מעיים, וולבולוס, הקאות מרתיות
+09|הפרעות תנועתיות ומחלת הירשפרונג|Hirschsprung disease, constipation, encopresis, delayed meconium, rectal biopsy, intestinal pseudo-obstruction, toxic megacolon|מחלת הירשפרונג, עצירות, אנקופרזיס, יציאת מקוניום מאוחרת, ביופסיה רקטלית
+10|איליאוס, הידבקויות, אינטוסוספציה וחסימות לולאה סגורה|intussusception, currant jelly stool, ileus, adhesions, bowel obstruction, air enema, Meckel diverticulum|אינטוסוספציה, צואת ריבת דומדמניות, איליאוס, הידבקויות, חסימת מעיים, חוקן אוויר, דיברטיקולום של מקל
+11|גופים זרים ובזוארים|foreign body, coin ingestion, magnet ingestion, button battery, bezoar, trichobezoar|גוף זר, בליעת מטבע, בליעת מגנטים, סוללת כפתור, בזואר
+12|מחלה פפטית בילדים|peptic ulcer, Helicobacter pylori, H. pylori, gastritis, NSAIDs, epigastric pain, upper GI bleeding|כיב פפטי, הליקובקטר, דלקת קיבה, כאב אפיגסטרי, דימום ממערכת העיכול העליונה
+13|מחלות מעי דלקתיות|inflammatory bowel disease, IBD, Crohn disease, ulcerative colitis, fecal calprotectin, bloody diarrhea, colonoscopy, biologics, infliximab|מחלות מעי דלקתיות, קרוהן, קוליטיס כיבית, קלפרוטקטין, שלשול דמי, קולונוסקופיה, טיפול ביולוגי
+14|צליאק|celiac disease, gluten, tissue transglutaminase, anti-tTG, IgA, villous atrophy, gluten-free diet|צליאק, גלוטן, נוגדני טרנסגלוטמינאז, דיאטה ללא גלוטן, אטרופיה של סיסים
+15|הפרעות ספיגה|malabsorption, short bowel syndrome, lactose intolerance, pancreatic insufficiency, steatorrhea, protein-losing enteropathy|תת ספיגה, תסמונת המעי הקצר, אי סבילות ללקטוז, אי ספיקת לבלב, צואה שומנית
+16|גסטרואנטריטיס חריפה בילדים|gastroenteritis, diarrhea, vomiting, dehydration, rotavirus, norovirus, oral rehydration solution, ORS, ondansetron|דלקת קיבה ומעיים, שלשול, הקאות, התייבשות, רוטה וירוס, נורו וירוס, תמיסת החייאה פומית, אונדנסטרון
+17|שלשול כרוני|chronic diarrhea, toddler's diarrhea, postinfectious diarrhea, Giardia, irritable bowel syndrome|שלשול כרוני, שלשול פעוטות, ג'יארדיה, מעי רגיז
+18|תסמונת הקאות מחזוריות|cyclic vomiting syndrome, abdominal migraine, cannabinoid hyperemesis, recurrent vomiting|הקאות מחזוריות, מיגרנה בטנית, הקאות חוזרות
+19|דלקת תוספתן חריפה|appendicitis, appendix, right lower quadrant pain, McBurney, perforation, ultrasound, appendectomy, Alvarado score|דלקת תוספתן, אפנדיציטיס, כאב בבטן ימנית תחתונה, ניקוב, כריתת תוספתן
+20|דלקת לבלב|pancreatitis, lipase, amylase, gallstones, pancreatic pseudocyst, abdominal pain|דלקת לבלב, ליפאז, עמילאז, אבני מרה, פסאודוציסטה
+21|ביטויים של מחלת כבד|liver disease, jaundice, hepatomegaly, elevated liver enzymes, transaminases, ALT, AST, portal hypertension, ascites|מחלת כבד, צהבת, הגדלת כבד, אנזימי כבד מוגברים, טרנסאמינזות, יתר לחץ דם פורטלי, מיימת
+22|כולסטזיס|cholestasis, direct hyperbilirubinemia, biliary atresia, Kasai, Alagille syndrome, neonatal cholestasis, pale stools|כולסטזיס, בילירובין ישיר, אטרזיה של דרכי המרה, קסאי, אלג'יל, צואה חיוורת
+23|מחלות מטבוליות של הכבד|Wilson disease, alpha-1 antitrypsin deficiency, glycogen storage disease, fatty liver, NAFLD, MASLD, hemochromatosis|מחלת וילסון, חסר אלפא 1 אנטיטריפסין, מחלת אגירת גליקוגן, כבד שומני
+24|דלקת כבד נגיפית|viral hepatitis, hepatitis A, hepatitis B, hepatitis C, hepatitis E, HBsAg, hepatitis vaccine|צהבת נגיפית, הפטיטיס A, הפטיטיס B, הפטיטיס C, חיסון לצהבת
+25|מחלת כבד הקשורה למחלות מערכתיות|liver in systemic disease, congestive hepatopathy, drug-induced liver injury, sepsis, sickle cell liver|פגיעה בכבד במחלות מערכתיות, פגיעת כבד מתרופות, אלח דם
+26|אי ספיקת כבד חריפה|acute liver failure, fulminant hepatitis, coagulopathy, INR, hepatic encephalopathy, acetaminophen toxicity, liver transplant|אי ספיקת כבד חריפה, הפטיטיס פולמיננטית, הפרעת קרישה, אנצפלופתיה כבדית, השתלת כבד

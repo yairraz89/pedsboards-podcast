@@ -1,0 +1,139 @@
+@General Pediatrics|רפואת ילדים כללית
+01|הכשות ועקיצות|envenomation, snake bite, scorpion sting, spider bite, bee sting, jellyfish, antivenom|הכשת נחש, עקיצת עקרב, עקיצת עכביש, עקיצת דבורה, מדוזות, נסיוב נגד ארס
+02|בדיקות מעבדה בתינוקות ובילדים|laboratory tests, blood tests, lab interpretation, sensitivity, specificity, sample collection|בדיקות מעבדה, בדיקות דם, פענוח בדיקות, רגישות וסגוליות
+03|ערכי ייחוס לבדיקות מעבדה ולפרוצדורות|reference ranges, normal values, laboratory values by age, CBC normal values|ערכי ייחוס, ערכים תקינים, ערכי מעבדה לפי גיל, ספירת דם
+
+@Genetics|גנטיקה
+01|דפוסי הורשה גנטית|inheritance patterns, autosomal dominant, autosomal recessive, X-linked, mitochondrial inheritance, imprinting, Prader-Willi, Angelman, pedigree|דפוסי תורשה, תורשה אוטוזומלית דומיננטית, תורשה אוטוזומלית רצסיבית, תאחיזה לכרומוזום X, תורשה מיטוכונדריאלית, החתמה גנומית, פראדר-וילי, אנג'למן
+02|שילוב הגנטיקה ברפואת ילדים|genetic testing, exome sequencing, chromosomal microarray, CMA, genetic counseling, newborn screening|בדיקות גנטיות, ריצוף אקסום, צ'יפ גנטי, ייעוץ גנטי, סינון יילודים
+03|הפרעות כרומוזומליות|chromosome abnormalities, trisomy 21, trisomy 18, trisomy 13, Turner syndrome, Klinefelter, 22q11 deletion, karyotype, microdeletion|הפרעות כרומוזומליות, טריזומיה 21, טריזומיה 18, טריזומיה 13, טרנר, קליינפלטר, חסר 22q11, קריוטיפ
+04|דיסמורפולוגיה, פנוטיפ ורצפים|dysmorphology, dysmorphic features, birth defects, Pierre Robin sequence, malformation, deformation, VACTERL, CHARGE|דיסמורפולוגיה, מראה דיסמורפי, מומים מולדים, רצף פייר רובן, VACTERL, CHARGE
+
+@Guidelines & Position Papers|הנחיות וניירות עמדה (ישראל)
+01|גסטרואנטריטיס חריפה בילדים (הנחיה ישראלית)|gastroenteritis, dehydration, oral rehydration, ondansetron, Israeli guideline|דלקת קיבה ומעיים, התייבשות, החייאה פומית, הנחיה קלינית
+02|דלקת אוזן תיכונה חריפה בילדים (הנחיה ישראלית)|acute otitis media, AOM, amoxicillin, watchful waiting, Israeli guideline|דלקת אוזן תיכונה, אמוקסיצילין, המתנה ומעקב, הנחיה קלינית
+03|יתר לחץ דם בילדים ובמתבגרים (הנחיה ישראלית)|hypertension, high blood pressure, blood pressure measurement, Israeli guideline|יתר לחץ דם, לחץ דם גבוה, מדידת לחץ דם, הנחיה קלינית
+04|זיהום בדרכי השתן בילדים (הנחיה ישראלית)|urinary tract infection, UTI, pyelonephritis, urine culture, renal ultrasound, VCUG, Israeli guideline|זיהום בדרכי השתן, דלקת בדרכי השתן, פיאלונפריטיס, תרבית שתן, אולטרסאונד כליות, הנחיה קלינית
+05|זיהומים חיידקיים חריפים של עצמות ומפרקים (הנחיה ישראלית)|osteomyelitis, septic arthritis, bone infection, joint infection, Kingella, Israeli guideline|אוסטאומיאליטיס, דלקת מפרקים זיהומית, זיהום עצם, קינגלה, הנחיה קלינית
+06|אספלניה והיפוספלניזם – מניעת זיהומים (הנחיה ישראלית)|asplenia, splenectomy, hyposplenism, penicillin prophylaxis, vaccines, encapsulated bacteria, Israeli guideline|היעדר טחול, כריתת טחול, טיפול מונע בפניצילין, חיסונים, חיידקים בעלי הלקופית, הנחיה קלינית
+07|זיהומי פטריות בעור בילדים (הנחיה ישראלית)|tinea, ringworm, tinea capitis, fungal skin infection, Israeli guideline|גזזת, פטרת עור, גזזת הקרקפת, הנחיה קלינית
+08|דלקת גרון מסטרפטוקוק קבוצה A (הנחיה ישראלית)|strep throat, group A strep pharyngitis, GAS, rapid strep test, throat culture, penicillin, amoxicillin, Israeli guideline|דלקת גרון, סטרפטוקוק, תרבית גרון, בדיקת סטרפ מהירה, פניצילין, אנגינה, הנחיה קלינית
+09|כאב ראש בילדים (הנחיה ישראלית)|headache, migraine, red flags, neuroimaging, Israeli guideline|כאב ראש, מיגרנה, דגלים אדומים, הדמיה, הנחיה קלינית
+10|דימום לאחר ברית מילה (נייר עמדה ישראלי)|circumcision bleeding, bleeding disorder, hemophilia, brit milah, Israeli position paper|דימום לאחר ברית מילה, ברית, הפרעת קרישה, המופיליה, נייר עמדה
+11|דלקת ריאות נרכשת בקהילה בילדים (הנחיה ישראלית)|community-acquired pneumonia, CAP, pneumonia, chest X-ray, amoxicillin, Israeli guideline|דלקת ריאות, צילום חזה, אמוקסיצילין, הנחיה קלינית
+12|הפרעות גדילה וקומה נמוכה (הנחיה ישראלית)|short stature, growth failure, growth hormone, bone age, growth evaluation, Israeli guideline|קומה נמוכה, הפרעות גדילה, הורמון גדילה, גיל עצמות, הנחיה קלינית
+13|מעקב בקהילה אחר צהבת יילודים (הנחיה ישראלית)|neonatal jaundice, hyperbilirubinemia, bilirubin, phototherapy, outpatient follow-up, Israeli guideline|צהבת יילודים, בילירובין, פוטותרפיה, מעקב בקהילה, הנחיה קלינית
+14|הפניה להתפתחות הילד (נייר עמדה ישראלי)|child development referral, developmental delay, early intervention, child development center, Israeli position paper|הפניה להתפתחות הילד, עיכוב התפתחותי, התערבות מוקדמת, מכון להתפתחות הילד, נייר עמדה
+15|מעקב בריאות הילד מההיריון ועד גיל 6 (הנחיה ישראלית)|well-child care, preventive care, screening, vaccinations, Tipat Halav, anticipatory guidance, Israeli guideline|טיפת חלב, מעקב התפתחותי, רפואה מונעת, חיסונים, הדרכה מקדימה, הנחיה קלינית
+16|תמיכה בהנקה (הנחיה ישראלית)|breastfeeding, lactation, breast milk, latch, mastitis, vitamin D supplementation, Israeli guideline|הנקה, חלב אם, קשיי הנקה, דלקת שד, תוספת ויטמין D, הנחיה קלינית
+17|זיהומי עור חיידקיים שכיחים בילדים (הנחיה ישראלית)|impetigo, cellulitis, abscess, MRSA, skin infection, Israeli guideline|אימפטיגו, צלוליטיס, מורסה, זיהום עור, הנחיה קלינית
+18|בדיקה גנטית ל-FMF בילדים (נייר עמדה ישראלי)|familial Mediterranean fever, FMF, MEFV gene, colchicine, periodic fever, Israeli position paper|קדחת ים תיכונית משפחתית, FMF, גן MEFV, קולכיצין, חום מחזורי, נייר עמדה
+19|מוניטורים ביתיים ומוות פתאומי בלתי מוסבר של תינוקות (נייר עמדה ישראלי)|home apnea monitor, SIDS, SUID, sudden infant death, safe sleep, Israeli position paper|מוניטור נשימה, מוות בעריסה, SIDS, שינה בטוחה, נייר עמדה
+20|אינטוסוספציה איליאוקולית בילדים (הנחיה ישראלית)|intussusception, ultrasound, air enema reduction, currant jelly stool, Israeli guideline|אינטוסוספציה, אולטרסאונד, חוקן אוויר, הנחיה קלינית
+21|ילדים וזמן מסך (נייר עמדה ישראלי)|screen time, media use, smartphones, television, digital media, Israeli position paper|זמן מסך, מסכים, טלפונים חכמים, טלוויזיה, מדיה דיגיטלית, נייר עמדה
+22|בטיחות מנשאים ומנשאי בד לתינוקות (נייר עמדה ישראלי)|baby carrier, sling, babywearing, infant safety, suffocation, Israeli position paper|מנשא, מנשא בד, בטיחות תינוקות, חנק, נייר עמדה
+23|מבנדזול לתולעת סיכה מתחת לגיל שנתיים (נייר עמדה ישראלי)|pinworm, enterobiasis, Enterobius vermicularis, mebendazole, Vermox, Israeli position paper|תולעת סיכה, תולעים, מבנדזול, ורמוקס, נייר עמדה
+24|סינון סטורציה ביילודים למומי לב קריטיים (נייר עמדה ישראלי)|pulse oximetry screening, critical congenital heart disease, CCHD, oxygen saturation, newborn screening, Israeli position paper|סינון סטורציה, מומי לב קריטיים, ריווי חמצן, סינון יילודים, נייר עמדה
+25|תקנים לרפואה מרחוק בילדים (נייר עמדה ישראלי)|telemedicine, telehealth, video consultation, remote care, Israeli position paper|רפואה מרחוק, טלרפואה, ייעוץ בווידאו, נייר עמדה
+26|מניעת שתיית אלכוהול בקרב מתבגרים (הנחיה ישראלית)|adolescent alcohol use, underage drinking, binge drinking, prevention, Israeli guideline|שתיית אלכוהול, מתבגרים, שתייה מופרזת, מניעה, הנחיה קלינית
+
+@Gynecology|גינקולוגיה
+01|דלקת פות ונרתיק|vulvovaginitis, vaginal discharge, labial adhesions, candida vaginitis, bacterial vaginosis, pinworms|דלקת פות ונרתיק, הפרשות נרתיקיות, הידבקות שפתיים, קנדידה, וגינוזיס בקטריאלי
+02|בריאות השד|breast mass, gynecomastia, breast development, fibroadenoma, mastitis, breast asymmetry|גוש בשד, גינקומסטיה, התפתחות שדיים, פיברואדנומה, דלקת שד
+03|תסמונת השחלות הפוליציסטיות והירסוטיזם|PCOS, polycystic ovary syndrome, hirsutism, irregular periods, insulin resistance, acne, androgen excess|שחלות פוליציסטיות, PCOS, שעירות יתר, מחזור לא סדיר, תנגודת לאינסולין
+04|גידולים גינקולוגיים ומניעת HPV במתבגרות|ovarian tumors, ovarian torsion, germ cell tumor, HPV vaccine, cervical cancer prevention, Gardasil|גידולי שחלה, תסביב שחלה, גידול תאי נבט, חיסון HPV, סרטן צוואר הרחם, גרדסיל
+
+@Hematology|המטולוגיה
+01|אנמיה נרכשת של שורת התאים האדומים בלבד|pure red cell aplasia, transient erythroblastopenia of childhood, TEC, Diamond-Blackfan anemia, parvovirus B19, reticulocytopenia|אפלזיה של תאים אדומים, אריתרובלסטופניה חולפת, דיימונד-בלקפן, פרבו B19, רטיקולוציטים נמוכים
+02|אנמיות מגלובלסטיות|megaloblastic anemia, vitamin B12 deficiency, folate deficiency, macrocytosis, pernicious anemia, goat milk|אנמיה מגלובלסטית, חסר ויטמין B12, חסר חומצה פולית, מקרוציטוזיס, חלב עיזים
+03|אנמיה מחסר ברזל|iron deficiency anemia, microcytic anemia, ferritin, iron supplements, cow's milk, pica, Mentzer index|אנמיה מחסר ברזל, אנמיה מיקרוציטית, פריטין, תוסף ברזל, חלב פרה, פיקה
+04|ספרוציטוזיס תורשתית|hereditary spherocytosis, hemolytic anemia, spherocytes, splenomegaly, gallstones, osmotic fragility, EMA binding, splenectomy|ספרוציטוזיס תורשתית, אנמיה המוליטית, הגדלת טחול, אבני מרה, כריתת טחול
+05|המוגלובינופתיות|sickle cell disease, thalassemia, beta thalassemia, alpha thalassemia, vaso-occlusive crisis, acute chest syndrome, hemoglobin electrophoresis, hydroxyurea|אנמיה חרמשית, תלסמיה, תלסמיה בטא, משבר כאבים, תסמונת חזה חריפה, אלקטרופורזה של המוגלובין
+06|אנמיות המוליטיות מגורמים חיצוניים – אנמיות המוליטיות אימוניות|autoimmune hemolytic anemia, Coombs test, direct antiglobulin test, cold agglutinins, warm antibodies, G6PD deficiency, favism|אנמיה המוליטית אוטואימונית, מבחן קומבס, נוגדנים קרים, חסר G6PD, פביזם
+07|תסמונות תורשתיות של כשל מח עצם עם פנציטופניה|Fanconi anemia, bone marrow failure, pancytopenia, aplastic anemia, dyskeratosis congenita, Shwachman-Diamond|אנמיה על שם פנקוני, כשל מח עצם, פנציטופניה, אנמיה אפלסטית, דיסקרטוזיס קונגניטה
+08|המוסטזיס|hemostasis, coagulation cascade, PT, PTT, INR, bleeding evaluation, platelet function, thrombosis|קרישת דם, מפל הקרישה, PT, PTT, בירור דימום, טסיות, פקקת
+09|חסרים תורשתיים בגורמי קרישה (הפרעות דמם)|hemophilia A, hemophilia B, factor VIII, factor IX, hemarthrosis, bleeding disorders, inhibitors|המופיליה, פקטור 8, פקטור 9, דימום למפרק, הפרעות דמם
+10|מחלת פון וילברנד|von Willebrand disease, vWF, epistaxis, nosebleeds, heavy menstrual bleeding, desmopressin, DDAVP|פון וילברנד, דימומים מהאף, דימום וסתי מוגבר, מינירין
+11|הפרעות בטסיות ובכלי הדם|ITP, immune thrombocytopenia, thrombocytopenia, petechiae, IVIG, HUS, platelet function disorders, Glanzmann|ITP, תרומבוציטופניה, מיעוט טסיות, פטכיות, IVIG, HUS, גלנצמן
+12|היפוספלניזם, חבלת טחול וכריתת טחול|asplenia, splenic trauma, splenic rupture, splenectomy, overwhelming post-splenectomy infection, vaccines|היעדר טחול, חבלת טחול, קרע טחול, כריתת טחול, חיסונים
+13|לימפאדנופתיה|lymphadenopathy, swollen lymph nodes, cervical lymphadenitis, cat scratch disease, lymphoma, lymph node biopsy|הגדלת קשריות לימפה, בלוטות לימפה נפוחות, דלקת קשריות בצוואר, מחלת שריטת חתול, לימפומה
+
+@Immunology|אימונולוגיה ואלרגיה
+01|גישה לשגיאות מולדות של מערכת החיסון|primary immunodeficiency, inborn errors of immunity, recurrent infections, warning signs, immunology workup|כשל חיסוני ראשוני, זיהומים חוזרים, סימני אזהרה, בירור חיסוני
+02|חסרים בתאי T וחסרים משולבים|SCID, severe combined immunodeficiency, T-cell deficiency, DiGeorge, TREC newborn screening, Wiskott-Aldrich, ataxia telangiectasia|SCID, כשל חיסוני משולב חמור, חסר תאי T, די ג'ורג', סינון TREC, ויסקוט-אולדריך
+03|חסרים בתאי B ובנוגדנים|antibody deficiency, X-linked agammaglobulinemia, Bruton, CVID, IgA deficiency, hypogammaglobulinemia, IVIG|חסר נוגדנים, אגמאגלובולינמיה, ברוטון, CVID, חסר IgA, היפוגמאגלובולינמיה, IVIG
+04|נויטרופילים|neutrophils, neutrophil function, granulocytes, white blood cells|נויטרופילים, גרנולוציטים, תאי דם לבנים
+05|הפרעות בתפקוד הפאגוציטים|chronic granulomatous disease, CGD, leukocyte adhesion deficiency, Chediak-Higashi, phagocytes, DHR test|מחלה גרנולומטוטית כרונית, CGD, חסר הדבקות לויקוציטים, צ'דיאק-היגאשי, פאגוציטים
+06|לויקופניה|neutropenia, leukopenia, cyclic neutropenia, severe congenital neutropenia, febrile neutropenia, lymphopenia|נויטרופניה, לויקופניה, נויטרופניה מחזורית, נויטרופניה עם חום
+07|מערכת המשלים|complement deficiency, C3, C4, CH50, hereditary angioedema, meningococcal infections|מערכת המשלים, חסר משלים, אנגיואדמה תורשתית, זיהומי מנינגוקוק
+08|הפרעות בוויסות החיסוני|HLH, hemophagocytic lymphohistiocytosis, IPEX, ALPS, immune dysregulation, autoimmunity|HLH, המופגוציטוזיס, הפרעות בוויסות חיסוני, אוטואימוניות
+09|גישות לטיפול בכשל חיסוני ראשוני|IVIG, immunoglobulin replacement, bone marrow transplant, stem cell transplant, gene therapy, prophylactic antibiotics|טיפול באימונוגלובולינים, השתלת מח עצם, השתלת תאי גזע, ריפוי גנטי, טיפול מונע אנטיביוטי
+10|מחלת שתל נגד מאכסן, דחייה ומחלה חוסמת ורידים|graft versus host disease, GVHD, transplant rejection, veno-occlusive disease, sinusoidal obstruction syndrome|מחלת שתל נגד מאכסן, GVHD, דחיית שתל, מחלה חוסמת ורידים
+11|אבחון מחלות אלרגיות|allergy testing, skin prick test, specific IgE, RAST, oral food challenge, atopy|בירור אלרגיה, תבחיני עור, IgE ספציפי, תגר מזון, אטופיה
+12|נזלת אלרגית|allergic rhinitis, hay fever, nasal steroids, antihistamines, allergic conjunctivitis, immunotherapy|נזלת אלרגית, קדחת השחת, סטרואידים לאף, אנטיהיסטמינים, דלקת לחמית אלרגית, אימונותרפיה
+13|אסתמה בילדים|asthma, wheezing, inhaled corticosteroids, albuterol, salbutamol, Ventolin, spirometry, asthma exacerbation, montelukast|אסתמה, גנחת, צפצופים, סטרואידים בשאיפה, ונטולין, ספירומטריה, התקף אסתמה, מונטלוקאסט
+14|אטופיק דרמטיטיס (אקזמה אטופית)|atopic dermatitis, eczema, itching, emollients, topical steroids, dupilumab, atopic march|אטופיק דרמטיטיס, אקזמה, גרד, תכשירי לחות, סטרואידים מקומיים, דופילומאב
+15|אורטיקריה (סרפדת) ואנגיואדמה|urticaria, hives, angioedema, antihistamines, chronic urticaria, hereditary angioedema|אורטיקריה, סרפדת, חרלת, אנגיואדמה, אנטיהיסטמינים
+16|אנפילקסיס|anaphylaxis, epinephrine, adrenaline, EpiPen, allergic reaction, anaphylactic shock|אנפילקסיס, אפינפרין, אדרנלין, אפיפן, תגובה אלרגית, הלם אנפילקטי
+17|אלרגיה למזון ותגובות שליליות למזון|food allergy, peanut allergy, milk allergy, egg allergy, FPIES, early introduction, oral immunotherapy, cow's milk protein allergy|אלרגיה למזון, אלרגיה לבוטנים, אלרגיה לחלב, אלרגיה לביצים, FPIES, חשיפה מוקדמת, אימונותרפיה פומית
+18|תגובות שליליות ואלרגיות לתרופות|drug allergy, penicillin allergy, DRESS, Stevens-Johnson syndrome, drug rash, desensitization|אלרגיה לתרופות, אלרגיה לפניצילין, DRESS, סטיבנס-ג'ונסון, פריחה מתרופות, דה-סנסיטיזציה
+
+@Infectious Diseases|מחלות זיהומיות
+01|נוהלי חיסונים|vaccines, immunization schedule, vaccine contraindications, MMR, live vaccines, vaccine hesitancy|חיסונים, תוכנית חיסונים, התוויות נגד לחיסון, MMR, חיסונים חיים, היסוס חיסוני
+02|ייעוץ בריאות לילדים הנוסעים לחו"ל|travel medicine, traveler's diarrhea, malaria prophylaxis, travel vaccines, yellow fever|רפואת נסיעות, שלשול מטיילים, מניעת מלריה, חיסונים לפני טיסה, קדחת צהובה
+03|חום ללא מקור ביילוד ובתינוק הצעיר|fever without source, febrile infant, neonatal fever, serious bacterial infection, lumbar puncture, procalcitonin, sepsis workup|חום ללא מקור, תינוק עם חום, חום ביילוד, זיהום חיידקי חמור, ניקור מותני, פרוקלציטונין, בירור ספסיס
+04|חום בילד הגדול|fever, febrile child, bacteremia, antipyretics, fever phobia|חום, ילד עם חום, בקטרמיה, הורדת חום, פוביית חום
+05|חום ממקור לא ידוע|fever of unknown origin, FUO, prolonged fever, fever workup|חום ממקור לא ידוע, חום ממושך, בירור חום
+06|זיהומים במדוכאי חיסון|immunocompromised, febrile neutropenia, opportunistic infections, chemotherapy infections, transplant|מדוכאי חיסון, נויטרופניה עם חום, זיהומים אופורטוניסטיים, כימותרפיה, השתלה
+07|עקרונות הטיפול האנטיבקטריאלי|antibiotics, antimicrobial resistance, antibiotic stewardship, penicillin, cephalosporins, MIC|אנטיביוטיקה, עמידות לאנטיביוטיקה, פניצילין, צפלוספורינים, שימוש מושכל באנטיביוטיקה
+08|סטפילוקוק|Staphylococcus aureus, MRSA, toxic shock syndrome, abscess, coagulase-negative staph|סטפילוקוק זהוב, MRSA, תסמונת הלם רעלני, מורסה
+09|סטרפטוקוקוס פנאומוניה (פנאומוקוק)|pneumococcus, Streptococcus pneumoniae, pneumococcal vaccine, PCV, invasive pneumococcal disease, meningitis, pneumonia|פנאומוקוק, חיסון פנאומוקוק, מחלה פנאומוקוקית פולשנית, דלקת קרום המוח, דלקת ריאות
+10|סטרפטוקוק קבוצה A|group A strep, Streptococcus pyogenes, strep throat, scarlet fever, rheumatic fever, post-streptococcal glomerulonephritis, invasive GAS|סטרפטוקוק קבוצה A, דלקת גרון, שנית, קדחת שגרונית, גלומרולונפריטיס פוסט-סטרפטוקוקלית
+11|סטרפטוקוק קבוצה B|group B strep, GBS, neonatal sepsis, early-onset sepsis, intrapartum antibiotic prophylaxis|סטרפטוקוק קבוצה B, GBS, אלח דם ביילוד, ספסיס מוקדם, טיפול מונע בלידה
+12|נייסריה מנינגיטידיס (מנינגוקוק)|meningococcus, meningococcal disease, meningococcemia, purpura fulminans, petechial rash, meningitis, MenACWY, MenB vaccine|מנינגוקוק, מנינגוקוקמיה, פורפורה פולמיננס, פריחה פטכיאלית, דלקת קרום המוח, חיסון מנינגוקוק
+13|נייסריה גונוריאה (גונוקוק)|gonorrhea, gonococcus, ophthalmia neonatorum, STI, ceftriaxone|זיבה, גונוקוק, דלקת עיניים ביילוד, מחלת מין, צפטריאקסון
+14|קינגלה קינגה|Kingella kingae, septic arthritis, osteomyelitis in toddlers|קינגלה, דלקת מפרקים זיהומית, אוסטאומיאליטיס בפעוטות
+15|המופילוס אינפלואנזה|Haemophilus influenzae type b, Hib, Hib vaccine, epiglottitis, non-typeable H. influenzae|המופילוס אינפלואנזה, Hib, חיסון Hib, אפיגלוטיטיס
+16|שעלת|pertussis, whooping cough, Bordetella, paroxysmal cough, apnea in infants, Tdap, azithromycin|שעלת, שיעול התקפי, דום נשימה בתינוקות, חיסון שעלת, אזיתרומיצין
+17|סלמונלה|Salmonella, typhoid fever, enteric fever, nontyphoidal Salmonella, food poisoning, bacteremia|סלמונלה, טיפוס הבטן, הרעלת מזון, בקטרמיה
+18|שיגלה|Shigella, shigellosis, dysentery, bloody diarrhea, seizures|שיגלה, דיזנטריה, שלשול דמי, פרכוסים
+19|קמפילובקטר|Campylobacter, bloody diarrhea, Guillain-Barré, food poisoning|קמפילובקטר, שלשול דמי, גיאן-בארה, הרעלת מזון
+20|ירסיניה|Yersinia enterocolitica, pseudoappendicitis, mesenteric adenitis, plague|ירסיניה, פסאודו-אפנדיציטיס, דלקת קשריות מזנטריות, מגפה
+21|פסאודומונס, בורקהולדריה וסטנוטרופומונס|Pseudomonas aeruginosa, Burkholderia cepacia, Stenotrophomonas, cystic fibrosis infections, hospital-acquired infections|פסאודומונס, בורקהולדריה, סטנוטרופומונס, זיהומים בסיסטיק פיברוזיס, זיהום נרכש בבית חולים
+22|ברוצלה|brucellosis, Brucella, unpasteurized milk, Malta fever, undulant fever|ברוצלוזיס, ברוצלה, קדחת מלטה, חלב לא מפוסטר, גבינת עיזים
+23|ברטונלה|Bartonella henselae, cat scratch disease, lymphadenitis, Parinaud|ברטונלה, מחלת שריטת חתול, דלקת קשריות לימפה
+24|בוטוליזם|botulism, infant botulism, honey, descending paralysis, constipation, BabyBIG|בוטוליזם, בוטוליזם תינוקות, דבש, שיתוק יורד, עצירות
+25|טטנוס|tetanus, lockjaw, trismus, tetanus vaccine, wound management, tetanus immune globulin|טטנוס, צפדת, פלצת, חיסון טטנוס, טיפול בפצעים
+26|עקרונות הטיפול נגד מיקובקטריות|anti-tuberculosis drugs, isoniazid, rifampin, pyrazinamide, ethambutol, latent TB treatment|תרופות נגד שחפת, איזוניאזיד, ריפמפין, טיפול בשחפת חבויה
+27|שחפת|tuberculosis, TB, Mantoux, PPD, tuberculin skin test, IGRA, Quantiferon, latent TB, BCG|שחפת, מבחן מנטו, PPD, קוונטיפרון, שחפת חבויה, BCG
+28|עגבת|syphilis, congenital syphilis, Treponema pallidum, VDRL, RPR, penicillin|עגבת, עגבת מולדת, VDRL, פניצילין
+29|מחלת ליים|Lyme disease, Borrelia burgdorferi, tick bite, erythema migrans, facial palsy|מחלת ליים, בורליה, עקיצת קרציה, אריתמה מיגרנס, שיתוק פנים
+30|מיקופלזמה פנאומוניה|Mycoplasma pneumoniae, atypical pneumonia, walking pneumonia, macrolides, azithromycin, MIRM|מיקופלזמה, דלקת ריאות לא טיפוסית, מקרולידים, אזיתרומיצין
+31|מיקופלזמות גניטליות|genital mycoplasma, Mycoplasma hominis, Mycoplasma genitalium, Ureaplasma, neonatal infection|מיקופלזמה גניטלית, אוראופלזמה, זיהום ביילוד
+32|ריקטסיוזות מקבוצת הקדחות הכתמיות|spotted fever, Rocky Mountain spotted fever, Mediterranean spotted fever, tick-borne, rickettsia, doxycycline|קדחת הבהרות, ריקטסיה, קדחת כתמים ים תיכונית, קרציות, דוקסיציקלין
+33|עקרונות הטיפול נגד פטריות|antifungal drugs, fluconazole, amphotericin, voriconazole, echinocandins|תרופות נגד פטריות, פלוקונזול, אמפוטריצין, וריקונזול
+34|קנדידה|Candida, thrush, oral candidiasis, diaper candidiasis, invasive candidiasis, candidemia|קנדידה, פטרת הפה, תרש, פטרייה בחיתול, קנדידמיה
+35|פנאומוציסטיס ג'ירובצ'י|Pneumocystis pneumonia, PCP, PJP, Bactrim prophylaxis, TMP-SMX, HIV|פנאומוציסטיס, PCP, טיפול מונע בספטרין, HIV
+36|פטריות פתוגניות אחרות|Aspergillus, aspergillosis, mucormycosis, Cryptococcus, histoplasmosis, endemic mycoses|אספרגילוס, מוקורמיקוזיס, קריפטוקוקוס, היסטופלזמוזיס
+37|עקרונות הטיפול האנטי-ויראלי|antiviral drugs, acyclovir, oseltamivir, Tamiflu, ganciclovir, valganciclovir|תרופות אנטי-ויראליות, אציקלוויר, אוסלטמיוויר, טמיפלו, גנציקלוויר
+38|חצבת|measles, rubeola, Koplik spots, MMR vaccine, vitamin A, SSPE|חצבת, כתמי קופליק, חיסון MMR, ויטמין A
+39|אדמת|rubella, German measles, congenital rubella syndrome, MMR|אדמת, תסמונת אדמת מולדת, חיסון MMR
+40|נגיפי פוליו|polio, poliomyelitis, acute flaccid paralysis, polio vaccine, OPV, IPV|פוליו, שיתוק ילדים, שיתוק רפה חריף, חיסון פוליו
+41|אנטרווירוסים שאינם פוליו|enterovirus, hand foot and mouth disease, herpangina, viral meningitis, coxsackie, myocarditis, neonatal enterovirus|אנטרווירוס, יד רגל פה, הרפנגינה, דלקת קרום המוח ויראלית, קוקסאקי
+42|פרבו וירוסים|parvovirus B19, fifth disease, erythema infectiosum, slapped cheek, aplastic crisis, hydrops fetalis|פרבו B19, המחלה החמישית, אריתמה אינפקציוזום, לחיים סטורות, משבר אפלסטי, הידרופס
+43|הרפס סימפלקס|herpes simplex virus, HSV, neonatal herpes, gingivostomatitis, cold sores, HSV encephalitis, acyclovir, eczema herpeticum|הרפס, הרפס ביילוד, דלקת חניכיים ופה, פצעי קור, דלקת מוח הרפטית, אציקלוויר
+44|נגיף ואריצלה-זוסטר|chickenpox, varicella, shingles, herpes zoster, varicella vaccine, VZIG|אבעבועות רוח, שלבקת חוגרת, חיסון אבעבועות רוח, ואריצלה
+45|נגיף אפשטיין-בר|EBV, infectious mononucleosis, kissing disease, monospot, splenomegaly, amoxicillin rash|EBV, מונונוקלאוזיס, מחלת הנשיקה, הגדלת טחול, פריחה מאמוקסיצילין
+46|ציטומגלווירוס|CMV, cytomegalovirus, congenital CMV, hearing loss, valganciclovir, CMV in transplant|CMV, ציטומגלו, CMV מולד, ירידה בשמיעה, ולגנציקלוויר
+47|רוזאולה (נגיפי הרפס אנושיים 6 ו-7)|roseola, sixth disease, exanthem subitum, HHV-6, febrile seizures|רוזאולה, המחלה השישית, HHV-6, פרכוסי חום
+48|נגיפי שפעת|influenza, flu, flu vaccine, oseltamivir, Tamiflu, influenza complications|שפעת, חיסון שפעת, טמיפלו, סיבוכי שפעת
+49|נגיפי פרא-אינפלואנזה|parainfluenza virus, croup, laryngotracheobronchitis|פרא-אינפלואנזה, קרופ, שיעול נובחני
+50|נגיף RSV|RSV, respiratory syncytial virus, bronchiolitis, palivizumab, nirsevimab, Beyfortus, RSV vaccine|RSV, ברונכיוליטיס, פליביזומאב, ניירסבימאב, חיסון RSV
+51|נגיפי קורונה|coronavirus, COVID-19, SARS-CoV-2, MIS-C, PIMS, multisystem inflammatory syndrome|קורונה, קוביד-19, MIS-C, PIMS, תסמונת דלקתית רב-מערכתית
+52|נגיפי פפילומה אנושיים|HPV, human papillomavirus, warts, verruca, genital warts, HPV vaccine, recurrent respiratory papillomatosis|HPV, יבלות, יבלות באברי המין, חיסון HPV, פפילומטוזיס
+53|זיהומים בארבו-וירוסים|arbovirus, West Nile virus, dengue, Zika, mosquito-borne, encephalitis|ארבו-וירוסים, קדחת מערב הנילוס, דנגי, זיקה, יתושים, דלקת מוח
+54|כלבת|rabies, animal bite, dog bite, bat, post-exposure prophylaxis, rabies vaccine, rabies immune globulin|כלבת, נשיכת בעל חיים, נשיכת כלב, עטלף, טיפול מונע לאחר חשיפה, חיסון כלבת
+55|HIV ואיידס|HIV, AIDS, antiretroviral therapy, ART, perinatal transmission, PrEP, PEP|HIV, איידס, טיפול אנטי-רטרו-ויראלי, הדבקה מאם לילד, PrEP
+56|עקרונות הטיפול נגד טפילים|antiparasitic drugs, albendazole, mebendazole, ivermectin, metronidazole, praziquantel|תרופות נגד טפילים, אלבנדזול, מבנדזול, איברמקטין, מטרונידזול
+57|טריפנוזומיאזיס אפריקאית (מחלת השינה)|sleeping sickness, African trypanosomiasis, tsetse fly, Trypanosoma brucei|מחלת השינה, טריפנוזומה, זבוב צה-צה
+58|טוקסופלזמוזיס|toxoplasmosis, congenital toxoplasmosis, cats, chorioretinitis, hydrocephalus, intracranial calcifications|טוקסופלזמה, טוקסופלזמוזיס מולדת, חתולים, כוריורטיניטיס, הסתיידויות תוך מוחיות
